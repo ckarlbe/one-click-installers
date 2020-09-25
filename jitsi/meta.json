@@ -1,0 +1,13 @@
+{
+  "params": [
+    {
+      "name": "hostname"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "jitsiPassword"
+    }
+  ]
+}

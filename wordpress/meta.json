@@ -1,0 +1,13 @@
+{
+  "params": [
+    {
+      "name": "hostname"
+    },
+    {
+      "name": "hostnames"
+    },
+    {
+      "name": "email"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "params": [
+    {
+      "name": "hostname"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "project"
+    },
+    {
+      "name": "apikey"
+    }
+  ]
+}
